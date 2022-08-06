@@ -1,0 +1,19 @@
+html{
+    background-color: #000000;
+}
+
+.container{
+    margin-top: 300px;
+    margin-left: 30%;
+    font-size: 5rem;
+    color: #fff;
+    border: 5px solid #ff6347;
+    box-shadow: 2px 2px 8px #ff6347;
+    display: inline-block;
+    padding: 15px 15px;
+    border-radius: 5px;
+    text-shadow: 1px 1px 8px #724fc4;
+}
+span{
+    color: antiquewhite;
+}
